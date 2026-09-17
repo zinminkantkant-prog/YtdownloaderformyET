@@ -2,3 +2,5 @@ Flask
 yt-dlp
 gunicorn
 flask-cors
+yt-dlp>=2024.03.10
+
