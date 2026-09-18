@@ -4,4 +4,11 @@ yt-dlp
 gunicorn
 flask-cors
 yt-dlp>=2024.03.10
+python3
+kivy==2.3.0
+requests
+urllib3
+certifi
+android
+pyjnius
 
